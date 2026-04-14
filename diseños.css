@@ -44,3 +44,34 @@ body {
     margin-top: 45px;
 
 }
+
+.buscador {
+
+    margin-top: 700px;
+    margin-left: 260px;
+}
+
+.top-bar {
+
+  background: linear-gradient(to right, #1b3f91, #2d6cdf);
+  color: white;
+  display: flex;
+  gap: 20px;
+  padding: 15px 20px;
+}
+
+.top-bar span {
+
+   opacity: 0.8;
+  font-size: 14px;
+}
+
+.top-bar {
+  width: 40%;
+  margin: 0 auto;
+  border-radius: 20px;
+  margin-top: -65px;
+  margin-left: 250px;
+}
+
+  
